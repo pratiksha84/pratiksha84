@@ -1,16 +1,16 @@
 # Hi 👋, I'm Pratiksha Murchite
 
-🎓 Final Year Student | 💻 Aspiring Java Full Stack Developer  
-🌱 Currently learning: Spring Boot, Backend Development, DBMS  
-🚀 Passionate about building real-world projects and solving problems  
+🎓 B.Tech Graduate | 💻 Java Full Stack Developer  
+🚀 Passionate about Backend Development & building scalable applications  
 
 ---
 
 ## 👩‍💻 About Me
-- 🔭 I’m currently working on Full Stack Projects  
-- 🌱 Learning **Java, Spring Boot, SQL, and Web Development**  
-- 💡 Interested in Backend Development & System Design  
-- 🎯 Goal: To become a skilled Software Engineer  
+- 🎓 Completed B.Tech in Engineering  
+- 💻 Skilled in **Java Full Stack Development**  
+- 🌱 Currently improving skills in **Spring Boot, DBMS, and System Design**  
+- 🔍 Actively looking for **Software Developer / Java Developer roles**  
+- 🎯 Goal: To build efficient and scalable backend systems  
 - 📫 How to reach me: (Add your email here)
 
 ---
@@ -22,7 +22,7 @@
 - Python  
 - JavaScript  
 
-### 🌐 Web Development
+### 🌐 Frontend
 - HTML  
 - CSS  
 - Bootstrap  
@@ -36,8 +36,8 @@
 
 ### 🔧 Tools
 - Git & GitHub  
-- VS Code  
 - IntelliJ IDEA  
+- VS Code  
 
 ---
 
@@ -45,7 +45,7 @@
 
 ### 🚗 Automatic Car Parking System
 - Built using Arduino UNO, IR Sensors, LCD, Servo Motor  
-- Detects vehicle movement and displays parking availability  
+- Displays real-time parking availability  
 
 ### 🤖 Path Following Robot
 - Built using Raspberry Pi Pico W  
@@ -68,8 +68,8 @@
 
 ## 🌐 Connect With Me
 - LinkedIn: (Add your link)
-- GitHub: https://github.com/pratiksha84
+- GitHub: https://github.com/pratiksha84  
 
 ---
 
-⭐ *“Keep Learning, Keep Building!”*
+⭐ *“Consistent effort beats talent.”*
